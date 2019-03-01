@@ -1,0 +1,27 @@
+2019-02-28 21:47:12,730-BrowserEngine-INFO-选择浏览器：Chrome
+2019-02-28 21:47:12,731-BrowserEngine-INFO-地址：http://127.0.0.1/forum.php/
+2019-02-28 21:47:19,202-BrowserEngine-INFO-打开Chrome浏览器
+2019-02-28 21:47:30,951-BrowserEngine-INFO-打开网址
+2019-02-28 21:47:37,543-BasePage-INFO-find the element,successful
+2019-02-28 21:47:38,303-BasePage-ERROR-error:Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 21:47:38,686-BasePage-INFO-success:/screenshots
+2019-02-28 21:47:39,746-BasePage-INFO-find the element,successful
+2019-02-28 21:47:40,741-BasePage-ERROR-error:Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 21:47:41,103-BasePage-INFO-success:/screenshots
+2019-02-28 21:47:44,144-BasePage-INFO-find the element,successful
+2019-02-28 21:47:44,455-BasePage-INFO-wqqwqqqqq
+2019-02-28 21:47:44,528-BasePage-INFO-find the element,successful
+2019-02-28 21:47:44,777-BasePage-INFO-ggggggggggg
+2019-02-28 21:47:45,832-BasePage-INFO-find the element,successful
+2019-02-28 21:47:46,094-BasePage-INFO-click the element发表帖子
+2019-02-28 21:47:51,148-BasePage-INFO-find the element,successful
+2019-02-28 21:47:51,690-BasePage-INFO-qqqqqqqqqqqqqqqqqqqqqq
+2019-02-28 21:47:51,765-BasePage-INFO-find the element,successful
+2019-02-28 21:47:52,462-BasePage-INFO-click the element发表回复
+2019-02-28 21:47:53,087-BrowserEngine-INFO-退出浏览器
